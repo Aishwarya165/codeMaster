@@ -1,4 +1,4 @@
-# codeMaster - an eLearning Web Application for basics of Programming Languages
+# codeMaster - an eLearning Web Application for Basics of Programming Languages
 
 ![image](https://user-images.githubusercontent.com/66171389/127440522-c9c28bbf-1831-42ab-926e-f7c03de43953.png)
 
